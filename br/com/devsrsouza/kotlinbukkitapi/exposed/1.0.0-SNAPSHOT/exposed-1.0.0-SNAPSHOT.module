@@ -1,0 +1,152 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "br.com.devsrsouza.kotlinbukkitapi",
+    "module": "exposed",
+    "version": "1.0.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.1.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "br.com.devsrsouza.kotlinbukkitapi",
+          "module": "architecture",
+          "version": {
+            "requires": "1.0.0-SNAPSHOT"
+          }
+        },
+        {
+          "group": "br.com.devsrsouza.kotlinbukkitapi",
+          "module": "utility",
+          "version": {
+            "requires": "1.0.0-SNAPSHOT"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.7.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "exposed-1.0.0-SNAPSHOT.jar",
+          "url": "exposed-1.0.0-SNAPSHOT.jar",
+          "size": 115061,
+          "sha512": "81fb209a2cd0b50daa8fffc06e918584cf47187e4d0195727d505476d6483763263d2b2a9338a0e9b8a51bfeda07188a6ca9d217cfd22369ff70cda427fa80ae",
+          "sha256": "1778f302ff744c8c0dc34253a58e8c080dc1b4d1f20579d4638e459ae40a9cd9",
+          "sha1": "a3442c97c9c006e22ccc9b68b8e2cfc49296af4e",
+          "md5": "ac9ecbe119d55f44e7b3ca639bee86c6"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-serialization-core",
+          "version": {
+            "requires": "1.5.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.exposed",
+          "module": "exposed-core",
+          "version": {
+            "requires": "0.40.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.exposed",
+          "module": "exposed-dao",
+          "version": {
+            "requires": "0.40.1"
+          }
+        },
+        {
+          "group": "com.zaxxer",
+          "module": "HikariCP",
+          "version": {
+            "requires": "4.0.3"
+          }
+        },
+        {
+          "group": "br.com.devsrsouza.kotlinbukkitapi",
+          "module": "architecture",
+          "version": {
+            "requires": "1.0.0-SNAPSHOT"
+          }
+        },
+        {
+          "group": "br.com.devsrsouza.kotlinbukkitapi",
+          "module": "utility",
+          "version": {
+            "requires": "1.0.0-SNAPSHOT"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.7.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "exposed-1.0.0-SNAPSHOT.jar",
+          "url": "exposed-1.0.0-SNAPSHOT.jar",
+          "size": 115061,
+          "sha512": "81fb209a2cd0b50daa8fffc06e918584cf47187e4d0195727d505476d6483763263d2b2a9338a0e9b8a51bfeda07188a6ca9d217cfd22369ff70cda427fa80ae",
+          "sha256": "1778f302ff744c8c0dc34253a58e8c080dc1b4d1f20579d4638e459ae40a9cd9",
+          "sha1": "a3442c97c9c006e22ccc9b68b8e2cfc49296af4e",
+          "md5": "ac9ecbe119d55f44e7b3ca639bee86c6"
+        }
+      ]
+    }
+  ]
+}

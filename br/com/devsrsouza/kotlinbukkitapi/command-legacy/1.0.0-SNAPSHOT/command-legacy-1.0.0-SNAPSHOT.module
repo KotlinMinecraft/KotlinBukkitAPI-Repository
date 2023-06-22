@@ -1,0 +1,124 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "br.com.devsrsouza.kotlinbukkitapi",
+    "module": "command-legacy",
+    "version": "1.0.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.1.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "br.com.devsrsouza.kotlinbukkitapi",
+          "module": "architecture",
+          "version": {
+            "requires": "1.0.0-SNAPSHOT"
+          }
+        },
+        {
+          "group": "br.com.devsrsouza.kotlinbukkitapi",
+          "module": "coroutines",
+          "version": {
+            "requires": "1.0.0-SNAPSHOT"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.7.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "command-legacy-1.0.0-SNAPSHOT.jar",
+          "url": "command-legacy-1.0.0-SNAPSHOT.jar",
+          "size": 85526,
+          "sha512": "61f149dee6b7c0a193811b079c3420b2c87db6095dbbf1194e1c043a9d2a2c21f81ca9e0fd2ff63af0cbcc77b3e8eee826fe6fdd536aca83e89c7990c46331d5",
+          "sha256": "8fc0478ae686625c2ab89a53651094291159c640fb842b8bd4619cdd04482f68",
+          "sha1": "3d6704196b988bce3df22ad46b26dc91706f6460",
+          "md5": "b677326034f3c504e4d9dc19dc71b980"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "br.com.devsrsouza.kotlinbukkitapi",
+          "module": "architecture",
+          "version": {
+            "requires": "1.0.0-SNAPSHOT"
+          }
+        },
+        {
+          "group": "br.com.devsrsouza.kotlinbukkitapi",
+          "module": "coroutines",
+          "version": {
+            "requires": "1.0.0-SNAPSHOT"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.7.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "command-legacy-1.0.0-SNAPSHOT.jar",
+          "url": "command-legacy-1.0.0-SNAPSHOT.jar",
+          "size": 85526,
+          "sha512": "61f149dee6b7c0a193811b079c3420b2c87db6095dbbf1194e1c043a9d2a2c21f81ca9e0fd2ff63af0cbcc77b3e8eee826fe6fdd536aca83e89c7990c46331d5",
+          "sha256": "8fc0478ae686625c2ab89a53651094291159c640fb842b8bd4619cdd04482f68",
+          "sha1": "3d6704196b988bce3df22ad46b26dc91706f6460",
+          "md5": "b677326034f3c504e4d9dc19dc71b980"
+        }
+      ]
+    }
+  ]
+}

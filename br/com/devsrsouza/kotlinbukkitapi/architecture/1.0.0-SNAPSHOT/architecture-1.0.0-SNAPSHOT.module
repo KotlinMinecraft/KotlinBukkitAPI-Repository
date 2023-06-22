@@ -1,0 +1,96 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "br.com.devsrsouza.kotlinbukkitapi",
+    "module": "architecture",
+    "version": "1.0.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.1.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.7.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "architecture-1.0.0-SNAPSHOT.jar",
+          "url": "architecture-1.0.0-SNAPSHOT.jar",
+          "size": 24887,
+          "sha512": "984e301456819e5558b72bf769946a2fb1b6901f3b721ccc3501694bb7025a88d465ae89d3e15ff594c66d8708fcab1dd3c2c155517dceefe252efe753bc6f86",
+          "sha256": "6fd58717154960cc53a474c1bdd798d6d538a32be5fb5c07a419c9f863ce4a76",
+          "sha1": "00404283ddf766777c55ebd92d93c4af78302cda",
+          "md5": "3d857c5f2061ce503861fb842bdb23ad"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.7.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "architecture-1.0.0-SNAPSHOT.jar",
+          "url": "architecture-1.0.0-SNAPSHOT.jar",
+          "size": 24887,
+          "sha512": "984e301456819e5558b72bf769946a2fb1b6901f3b721ccc3501694bb7025a88d465ae89d3e15ff594c66d8708fcab1dd3c2c155517dceefe252efe753bc6f86",
+          "sha256": "6fd58717154960cc53a474c1bdd798d6d538a32be5fb5c07a419c9f863ce4a76",
+          "sha1": "00404283ddf766777c55ebd92d93c4af78302cda",
+          "md5": "3d857c5f2061ce503861fb842bdb23ad"
+        }
+      ]
+    }
+  ]
+}

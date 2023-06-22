@@ -1,0 +1,117 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "br.com.devsrsouza.kotlinbukkitapi",
+    "module": "serialization",
+    "version": "1.0.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.1.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "br.com.devsrsouza.kotlinbukkitapi",
+          "module": "architecture",
+          "version": {
+            "requires": "1.0.0-SNAPSHOT"
+          }
+        },
+        {
+          "group": "br.com.devsrsouza.kotlinbukkitapi",
+          "module": "extensions",
+          "version": {
+            "requires": "1.0.0-SNAPSHOT"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "serialization-1.0.0-SNAPSHOT.jar",
+          "url": "serialization-1.0.0-SNAPSHOT.jar",
+          "size": 63109,
+          "sha512": "6401320080ec6e51ee5dfbbd691eea848a487713d1b3c51522e283fe8e697865a62e7643a0912bf03f6d3fe90050dc489f6ea16664defadd67841adaa1bbf61c",
+          "sha256": "30aa1ef69cea313ac6504236e06c1499dcefb2dd3fd33bedcf493ca76a73b7a0",
+          "sha1": "ac646d9171eeb25143099f7a3a7fdfccb43dab7c",
+          "md5": "3901df552c2c5012be9e7b63673f7ce3"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-serialization-core",
+          "version": {
+            "requires": "1.5.1"
+          }
+        },
+        {
+          "group": "br.com.devsrsouza.kotlinbukkitapi",
+          "module": "architecture",
+          "version": {
+            "requires": "1.0.0-SNAPSHOT"
+          }
+        },
+        {
+          "group": "br.com.devsrsouza.kotlinbukkitapi",
+          "module": "extensions",
+          "version": {
+            "requires": "1.0.0-SNAPSHOT"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "serialization-1.0.0-SNAPSHOT.jar",
+          "url": "serialization-1.0.0-SNAPSHOT.jar",
+          "size": 63109,
+          "sha512": "6401320080ec6e51ee5dfbbd691eea848a487713d1b3c51522e283fe8e697865a62e7643a0912bf03f6d3fe90050dc489f6ea16664defadd67841adaa1bbf61c",
+          "sha256": "30aa1ef69cea313ac6504236e06c1499dcefb2dd3fd33bedcf493ca76a73b7a0",
+          "sha1": "ac646d9171eeb25143099f7a3a7fdfccb43dab7c",
+          "md5": "3901df552c2c5012be9e7b63673f7ce3"
+        }
+      ]
+    }
+  ]
+}

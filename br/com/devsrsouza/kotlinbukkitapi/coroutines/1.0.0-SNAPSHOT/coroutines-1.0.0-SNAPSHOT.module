@@ -1,0 +1,138 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "br.com.devsrsouza.kotlinbukkitapi",
+    "module": "coroutines",
+    "version": "1.0.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.1.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "br.com.devsrsouza.kotlinbukkitapi",
+          "module": "architecture",
+          "version": {
+            "requires": "1.0.0-SNAPSHOT"
+          }
+        },
+        {
+          "group": "br.com.devsrsouza.kotlinbukkitapi",
+          "module": "extensions",
+          "version": {
+            "requires": "1.0.0-SNAPSHOT"
+          }
+        },
+        {
+          "group": "br.com.devsrsouza.kotlinbukkitapi",
+          "module": "utility",
+          "version": {
+            "requires": "1.0.0-SNAPSHOT"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.7.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "coroutines-1.0.0-SNAPSHOT.jar",
+          "url": "coroutines-1.0.0-SNAPSHOT.jar",
+          "size": 66491,
+          "sha512": "a6484d161b3aa93f780b42f70379bb1cc0011ab5e28a4cffb0da74d44856c12f11253a2ef18fb939b7b5e5c60aa49697d51536f54d01500f44b4becd0bdbe1e1",
+          "sha256": "557691f7cf018df87569060512f9bd95bd48289addef2345749f357aaa6865c1",
+          "sha1": "2e4837d32cbfe022edd930e184ff84b15432e9bf",
+          "md5": "3de1a5c562634c48d2066989182c4d7c"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "br.com.devsrsouza.kotlinbukkitapi",
+          "module": "architecture",
+          "version": {
+            "requires": "1.0.0-SNAPSHOT"
+          }
+        },
+        {
+          "group": "br.com.devsrsouza.kotlinbukkitapi",
+          "module": "extensions",
+          "version": {
+            "requires": "1.0.0-SNAPSHOT"
+          }
+        },
+        {
+          "group": "br.com.devsrsouza.kotlinbukkitapi",
+          "module": "utility",
+          "version": {
+            "requires": "1.0.0-SNAPSHOT"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.7.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "coroutines-1.0.0-SNAPSHOT.jar",
+          "url": "coroutines-1.0.0-SNAPSHOT.jar",
+          "size": 66491,
+          "sha512": "a6484d161b3aa93f780b42f70379bb1cc0011ab5e28a4cffb0da74d44856c12f11253a2ef18fb939b7b5e5c60aa49697d51536f54d01500f44b4becd0bdbe1e1",
+          "sha256": "557691f7cf018df87569060512f9bd95bd48289addef2345749f357aaa6865c1",
+          "sha1": "2e4837d32cbfe022edd930e184ff84b15432e9bf",
+          "md5": "3de1a5c562634c48d2066989182c4d7c"
+        }
+      ]
+    }
+  ]
+}

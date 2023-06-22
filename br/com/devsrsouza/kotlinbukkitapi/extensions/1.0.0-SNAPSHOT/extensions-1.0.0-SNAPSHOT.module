@@ -1,0 +1,110 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "br.com.devsrsouza.kotlinbukkitapi",
+    "module": "extensions",
+    "version": "1.0.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.1.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "br.com.devsrsouza.kotlinbukkitapi",
+          "module": "architecture",
+          "version": {
+            "requires": "1.0.0-SNAPSHOT"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.7.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "extensions-1.0.0-SNAPSHOT.jar",
+          "url": "extensions-1.0.0-SNAPSHOT.jar",
+          "size": 75175,
+          "sha512": "f121f01c5fa6f24fdd5797cdc526d2fc01bb1c10cae8ff196ea37cc84fc1857060aa6a4e942778d20b9ffaec9f619de44cdde02fab88aa609443b86a648ad073",
+          "sha256": "ee03b7387359d1ac47317d538b09497535cfe4aa9c2a4bca91328d3bf8d210eb",
+          "sha1": "c655cd1d1fa9404b17ddaecc720f384d53a166d2",
+          "md5": "320c9d1bf0b0feacac7bf0fd43d43e10"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "br.com.devsrsouza.kotlinbukkitapi",
+          "module": "architecture",
+          "version": {
+            "requires": "1.0.0-SNAPSHOT"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.7.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "extensions-1.0.0-SNAPSHOT.jar",
+          "url": "extensions-1.0.0-SNAPSHOT.jar",
+          "size": 75175,
+          "sha512": "f121f01c5fa6f24fdd5797cdc526d2fc01bb1c10cae8ff196ea37cc84fc1857060aa6a4e942778d20b9ffaec9f619de44cdde02fab88aa609443b86a648ad073",
+          "sha256": "ee03b7387359d1ac47317d538b09497535cfe4aa9c2a4bca91328d3bf8d210eb",
+          "sha1": "c655cd1d1fa9404b17ddaecc720f384d53a166d2",
+          "md5": "320c9d1bf0b0feacac7bf0fd43d43e10"
+        }
+      ]
+    }
+  ]
+}
