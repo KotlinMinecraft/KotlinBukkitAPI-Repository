@@ -67,10 +67,10 @@
           "name": "coroutines-1.0.0-SNAPSHOT.jar",
           "url": "coroutines-1.0.0-SNAPSHOT.jar",
           "size": 66491,
-          "sha512": "a6484d161b3aa93f780b42f70379bb1cc0011ab5e28a4cffb0da74d44856c12f11253a2ef18fb939b7b5e5c60aa49697d51536f54d01500f44b4becd0bdbe1e1",
-          "sha256": "557691f7cf018df87569060512f9bd95bd48289addef2345749f357aaa6865c1",
-          "sha1": "2e4837d32cbfe022edd930e184ff84b15432e9bf",
-          "md5": "3de1a5c562634c48d2066989182c4d7c"
+          "sha512": "10d3e4b8ffa97d2bf15191a08fe0a4bcfbbda04f001a3c40d59b58f6612224a9281795809add6975cfcbce3719ea377d5b8b29667e250b9854fae09af4f00822",
+          "sha256": "3657232242475e2600c2adc4a366e5667f7f104fa8cf0c17e4e54004d2714fca",
+          "sha1": "7faaa11f13571920477cbb2b6e64a579c5793cec",
+          "md5": "d423583f40dc22bd68583ec0158785d7"
         }
       ]
     },
@@ -127,10 +127,10 @@
           "name": "coroutines-1.0.0-SNAPSHOT.jar",
           "url": "coroutines-1.0.0-SNAPSHOT.jar",
           "size": 66491,
-          "sha512": "a6484d161b3aa93f780b42f70379bb1cc0011ab5e28a4cffb0da74d44856c12f11253a2ef18fb939b7b5e5c60aa49697d51536f54d01500f44b4becd0bdbe1e1",
-          "sha256": "557691f7cf018df87569060512f9bd95bd48289addef2345749f357aaa6865c1",
-          "sha1": "2e4837d32cbfe022edd930e184ff84b15432e9bf",
-          "md5": "3de1a5c562634c48d2066989182c4d7c"
+          "sha512": "10d3e4b8ffa97d2bf15191a08fe0a4bcfbbda04f001a3c40d59b58f6612224a9281795809add6975cfcbce3719ea377d5b8b29667e250b9854fae09af4f00822",
+          "sha256": "3657232242475e2600c2adc4a366e5667f7f104fa8cf0c17e4e54004d2714fca",
+          "sha1": "7faaa11f13571920477cbb2b6e64a579c5793cec",
+          "md5": "d423583f40dc22bd68583ec0158785d7"
         }
       ]
     }

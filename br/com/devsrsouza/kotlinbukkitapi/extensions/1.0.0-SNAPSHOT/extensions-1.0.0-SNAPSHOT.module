@@ -53,10 +53,10 @@
           "name": "extensions-1.0.0-SNAPSHOT.jar",
           "url": "extensions-1.0.0-SNAPSHOT.jar",
           "size": 75175,
-          "sha512": "f121f01c5fa6f24fdd5797cdc526d2fc01bb1c10cae8ff196ea37cc84fc1857060aa6a4e942778d20b9ffaec9f619de44cdde02fab88aa609443b86a648ad073",
-          "sha256": "ee03b7387359d1ac47317d538b09497535cfe4aa9c2a4bca91328d3bf8d210eb",
-          "sha1": "c655cd1d1fa9404b17ddaecc720f384d53a166d2",
-          "md5": "320c9d1bf0b0feacac7bf0fd43d43e10"
+          "sha512": "2cfd3014f63223c07094c4f1c64b3afb8201af5683280e1bbca44e94f3f5a8cc6c5b903c9e04631a2dd08e597573fed236647f784876aefb96661d211020d7ba",
+          "sha256": "5a9bf693941893481c4a4b9b9028ffb3ba47c926685eab8a8ed75e6bc2442483",
+          "sha1": "b0f09bc0a396575cc2553a66aa5879f27fc4f942",
+          "md5": "1432da3179281a6c7527e7f067b97ec8"
         }
       ]
     },
@@ -99,10 +99,10 @@
           "name": "extensions-1.0.0-SNAPSHOT.jar",
           "url": "extensions-1.0.0-SNAPSHOT.jar",
           "size": 75175,
-          "sha512": "f121f01c5fa6f24fdd5797cdc526d2fc01bb1c10cae8ff196ea37cc84fc1857060aa6a4e942778d20b9ffaec9f619de44cdde02fab88aa609443b86a648ad073",
-          "sha256": "ee03b7387359d1ac47317d538b09497535cfe4aa9c2a4bca91328d3bf8d210eb",
-          "sha1": "c655cd1d1fa9404b17ddaecc720f384d53a166d2",
-          "md5": "320c9d1bf0b0feacac7bf0fd43d43e10"
+          "sha512": "2cfd3014f63223c07094c4f1c64b3afb8201af5683280e1bbca44e94f3f5a8cc6c5b903c9e04631a2dd08e597573fed236647f784876aefb96661d211020d7ba",
+          "sha256": "5a9bf693941893481c4a4b9b9028ffb3ba47c926685eab8a8ed75e6bc2442483",
+          "sha1": "b0f09bc0a396575cc2553a66aa5879f27fc4f942",
+          "md5": "1432da3179281a6c7527e7f067b97ec8"
         }
       ]
     }

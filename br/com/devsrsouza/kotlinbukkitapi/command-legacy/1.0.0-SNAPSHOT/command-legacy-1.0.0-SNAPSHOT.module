@@ -60,10 +60,10 @@
           "name": "command-legacy-1.0.0-SNAPSHOT.jar",
           "url": "command-legacy-1.0.0-SNAPSHOT.jar",
           "size": 85526,
-          "sha512": "61f149dee6b7c0a193811b079c3420b2c87db6095dbbf1194e1c043a9d2a2c21f81ca9e0fd2ff63af0cbcc77b3e8eee826fe6fdd536aca83e89c7990c46331d5",
-          "sha256": "8fc0478ae686625c2ab89a53651094291159c640fb842b8bd4619cdd04482f68",
-          "sha1": "3d6704196b988bce3df22ad46b26dc91706f6460",
-          "md5": "b677326034f3c504e4d9dc19dc71b980"
+          "sha512": "9408784ccfc757c12dfd3c74221ef51d684e8a49fac350d396badb948f6a80964ef2aa3a6036f2d1850af4ef47b6fd8631d90396632d5ffb49b3cacb5b585d73",
+          "sha256": "ad16694ec081cd6fd00db5d4432a94d5bb3dbd255adb2f78e084aba622645d07",
+          "sha1": "fbdbc2b3443379a091584806b23582869c425981",
+          "md5": "53b9cfc2ba7447ae5d7b1e34f49818c7"
         }
       ]
     },
@@ -113,10 +113,10 @@
           "name": "command-legacy-1.0.0-SNAPSHOT.jar",
           "url": "command-legacy-1.0.0-SNAPSHOT.jar",
           "size": 85526,
-          "sha512": "61f149dee6b7c0a193811b079c3420b2c87db6095dbbf1194e1c043a9d2a2c21f81ca9e0fd2ff63af0cbcc77b3e8eee826fe6fdd536aca83e89c7990c46331d5",
-          "sha256": "8fc0478ae686625c2ab89a53651094291159c640fb842b8bd4619cdd04482f68",
-          "sha1": "3d6704196b988bce3df22ad46b26dc91706f6460",
-          "md5": "b677326034f3c504e4d9dc19dc71b980"
+          "sha512": "9408784ccfc757c12dfd3c74221ef51d684e8a49fac350d396badb948f6a80964ef2aa3a6036f2d1850af4ef47b6fd8631d90396632d5ffb49b3cacb5b585d73",
+          "sha256": "ad16694ec081cd6fd00db5d4432a94d5bb3dbd255adb2f78e084aba622645d07",
+          "sha1": "fbdbc2b3443379a091584806b23582869c425981",
+          "md5": "53b9cfc2ba7447ae5d7b1e34f49818c7"
         }
       ]
     }

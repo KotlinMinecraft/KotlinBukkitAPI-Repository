@@ -45,11 +45,11 @@
         {
           "name": "architecture-1.0.0-SNAPSHOT.jar",
           "url": "architecture-1.0.0-SNAPSHOT.jar",
-          "size": 24887,
-          "sha512": "984e301456819e5558b72bf769946a2fb1b6901f3b721ccc3501694bb7025a88d465ae89d3e15ff594c66d8708fcab1dd3c2c155517dceefe252efe753bc6f86",
-          "sha256": "6fd58717154960cc53a474c1bdd798d6d538a32be5fb5c07a419c9f863ce4a76",
-          "sha1": "00404283ddf766777c55ebd92d93c4af78302cda",
-          "md5": "3d857c5f2061ce503861fb842bdb23ad"
+          "size": 27944,
+          "sha512": "e07f58fa4afcc4c1ee76cef41777a963f95ed0826a61e5c13751f06d69c1cd6d82460f12043b443e0fdc990a458f75c3f8cfec27aa2750c2c54a142ff15a5e56",
+          "sha256": "f65f8cbddc43e3b000c2664f4454d24ed161036ff89b2afc1b2303f9b229733d",
+          "sha1": "918c5284be8c5418a5045c9a7b8b25fae0798123",
+          "md5": "2be5f05e8469f2f0bdb7e5b055f80d35"
         }
       ]
     },
@@ -84,11 +84,11 @@
         {
           "name": "architecture-1.0.0-SNAPSHOT.jar",
           "url": "architecture-1.0.0-SNAPSHOT.jar",
-          "size": 24887,
-          "sha512": "984e301456819e5558b72bf769946a2fb1b6901f3b721ccc3501694bb7025a88d465ae89d3e15ff594c66d8708fcab1dd3c2c155517dceefe252efe753bc6f86",
-          "sha256": "6fd58717154960cc53a474c1bdd798d6d538a32be5fb5c07a419c9f863ce4a76",
-          "sha1": "00404283ddf766777c55ebd92d93c4af78302cda",
-          "md5": "3d857c5f2061ce503861fb842bdb23ad"
+          "size": 27944,
+          "sha512": "e07f58fa4afcc4c1ee76cef41777a963f95ed0826a61e5c13751f06d69c1cd6d82460f12043b443e0fdc990a458f75c3f8cfec27aa2750c2c54a142ff15a5e56",
+          "sha256": "f65f8cbddc43e3b000c2664f4454d24ed161036ff89b2afc1b2303f9b229733d",
+          "sha1": "918c5284be8c5418a5045c9a7b8b25fae0798123",
+          "md5": "2be5f05e8469f2f0bdb7e5b055f80d35"
         }
       ]
     }

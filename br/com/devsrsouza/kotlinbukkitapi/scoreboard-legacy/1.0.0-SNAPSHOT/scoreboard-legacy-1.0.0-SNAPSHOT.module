@@ -67,10 +67,10 @@
           "name": "scoreboard-legacy-1.0.0-SNAPSHOT.jar",
           "url": "scoreboard-legacy-1.0.0-SNAPSHOT.jar",
           "size": 27170,
-          "sha512": "8ebabe2d813a1ed46dae52715e9139fbe42d3d975332a5c920a3cd6f03e879dc8d97f3e27b8bcc984d882a84c81d3ee4ad71bae8fcdb034e253f09d796b5061f",
-          "sha256": "0097d95596a391e3a9cebd6883d16afb458fc99d28528b9701193f3bcbd31864",
-          "sha1": "9efed8352e23fe5649ecfc7dfd3588b65eae0e13",
-          "md5": "943cbbdcf51c1aa598da66a4eaf761cd"
+          "sha512": "50972d7ea7296251676f5542a1835a4902afa63a3228bf523dd10114b0e2c36aafe11e85674069449c965dab714f3d62659e4e2b84b118fa51e6b994496947fe",
+          "sha256": "8d3518655c27ee0759c014b0f417fcb39a252c7163c1aa46e087abbd18c7b531",
+          "sha1": "4dbdd794639ff4cc54570fc4a7955c59c1928fc8",
+          "md5": "90e5939bdb7f7f83daaf32d90480c8ed"
         }
       ]
     },
@@ -127,10 +127,10 @@
           "name": "scoreboard-legacy-1.0.0-SNAPSHOT.jar",
           "url": "scoreboard-legacy-1.0.0-SNAPSHOT.jar",
           "size": 27170,
-          "sha512": "8ebabe2d813a1ed46dae52715e9139fbe42d3d975332a5c920a3cd6f03e879dc8d97f3e27b8bcc984d882a84c81d3ee4ad71bae8fcdb034e253f09d796b5061f",
-          "sha256": "0097d95596a391e3a9cebd6883d16afb458fc99d28528b9701193f3bcbd31864",
-          "sha1": "9efed8352e23fe5649ecfc7dfd3588b65eae0e13",
-          "md5": "943cbbdcf51c1aa598da66a4eaf761cd"
+          "sha512": "50972d7ea7296251676f5542a1835a4902afa63a3228bf523dd10114b0e2c36aafe11e85674069449c965dab714f3d62659e4e2b84b118fa51e6b994496947fe",
+          "sha256": "8d3518655c27ee0759c014b0f417fcb39a252c7163c1aa46e087abbd18c7b531",
+          "sha1": "4dbdd794639ff4cc54570fc4a7955c59c1928fc8",
+          "md5": "90e5939bdb7f7f83daaf32d90480c8ed"
         }
       ]
     }

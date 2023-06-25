@@ -53,10 +53,10 @@
           "name": "serialization-1.0.0-SNAPSHOT.jar",
           "url": "serialization-1.0.0-SNAPSHOT.jar",
           "size": 63109,
-          "sha512": "6401320080ec6e51ee5dfbbd691eea848a487713d1b3c51522e283fe8e697865a62e7643a0912bf03f6d3fe90050dc489f6ea16664defadd67841adaa1bbf61c",
-          "sha256": "30aa1ef69cea313ac6504236e06c1499dcefb2dd3fd33bedcf493ca76a73b7a0",
-          "sha1": "ac646d9171eeb25143099f7a3a7fdfccb43dab7c",
-          "md5": "3901df552c2c5012be9e7b63673f7ce3"
+          "sha512": "f96dcd93b674ef06b2a2c1597af897aef10650b0e4ce9893eb644133f285e308c35c142c7697517522f9935ed23dfb1daaf42e85ead05d58eca4ab1b55de0aca",
+          "sha256": "5219c698a293c3916f6626fc095d5cecd873bc1e3aa9597b50aa51ddf1e2132a",
+          "sha1": "9f5a84fb0c24063a54fde3854d171f13090c0e6c",
+          "md5": "9aa4da046ec52cc3670d2ad46a82ea5b"
         }
       ]
     },
@@ -106,10 +106,10 @@
           "name": "serialization-1.0.0-SNAPSHOT.jar",
           "url": "serialization-1.0.0-SNAPSHOT.jar",
           "size": 63109,
-          "sha512": "6401320080ec6e51ee5dfbbd691eea848a487713d1b3c51522e283fe8e697865a62e7643a0912bf03f6d3fe90050dc489f6ea16664defadd67841adaa1bbf61c",
-          "sha256": "30aa1ef69cea313ac6504236e06c1499dcefb2dd3fd33bedcf493ca76a73b7a0",
-          "sha1": "ac646d9171eeb25143099f7a3a7fdfccb43dab7c",
-          "md5": "3901df552c2c5012be9e7b63673f7ce3"
+          "sha512": "f96dcd93b674ef06b2a2c1597af897aef10650b0e4ce9893eb644133f285e308c35c142c7697517522f9935ed23dfb1daaf42e85ead05d58eca4ab1b55de0aca",
+          "sha256": "5219c698a293c3916f6626fc095d5cecd873bc1e3aa9597b50aa51ddf1e2132a",
+          "sha1": "9f5a84fb0c24063a54fde3854d171f13090c0e6c",
+          "md5": "9aa4da046ec52cc3670d2ad46a82ea5b"
         }
       ]
     }

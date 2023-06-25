@@ -60,10 +60,10 @@
           "name": "exposed-1.0.0-SNAPSHOT.jar",
           "url": "exposed-1.0.0-SNAPSHOT.jar",
           "size": 115061,
-          "sha512": "81fb209a2cd0b50daa8fffc06e918584cf47187e4d0195727d505476d6483763263d2b2a9338a0e9b8a51bfeda07188a6ca9d217cfd22369ff70cda427fa80ae",
-          "sha256": "1778f302ff744c8c0dc34253a58e8c080dc1b4d1f20579d4638e459ae40a9cd9",
-          "sha1": "a3442c97c9c006e22ccc9b68b8e2cfc49296af4e",
-          "md5": "ac9ecbe119d55f44e7b3ca639bee86c6"
+          "sha512": "1f32dfac2c526f086f3d8f639036bf2b7eeeedb5c1aae5316922f962b61fbbbe579ee941b676017ddd66980c322aedb715b54501a75bb681fd9fc8651eb8869a",
+          "sha256": "775e29f5aa63625328eeb330d237b283e49829d435db853665d869579990b139",
+          "sha1": "52284871766946928120c3271de430198758d6da",
+          "md5": "e7b71a502bb27aad6060fcb4bafa8a86"
         }
       ]
     },
@@ -141,10 +141,10 @@
           "name": "exposed-1.0.0-SNAPSHOT.jar",
           "url": "exposed-1.0.0-SNAPSHOT.jar",
           "size": 115061,
-          "sha512": "81fb209a2cd0b50daa8fffc06e918584cf47187e4d0195727d505476d6483763263d2b2a9338a0e9b8a51bfeda07188a6ca9d217cfd22369ff70cda427fa80ae",
-          "sha256": "1778f302ff744c8c0dc34253a58e8c080dc1b4d1f20579d4638e459ae40a9cd9",
-          "sha1": "a3442c97c9c006e22ccc9b68b8e2cfc49296af4e",
-          "md5": "ac9ecbe119d55f44e7b3ca639bee86c6"
+          "sha512": "1f32dfac2c526f086f3d8f639036bf2b7eeeedb5c1aae5316922f962b61fbbbe579ee941b676017ddd66980c322aedb715b54501a75bb681fd9fc8651eb8869a",
+          "sha256": "775e29f5aa63625328eeb330d237b283e49829d435db853665d869579990b139",
+          "sha1": "52284871766946928120c3271de430198758d6da",
+          "md5": "e7b71a502bb27aad6060fcb4bafa8a86"
         }
       ]
     }
